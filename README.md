@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Preet Niranjan Patil
 
-<!--
-**patilpreet1107/patilpreet1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🤖 AI & Machine Learning Enthusiast | Aspiring AI Engineer
 
-Here are some ideas to get you started:
+Welcome to my GitHub Profile! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Computer Engineering student specializing in Artificial Intelligence and Machine Learning. I'm passionate about exploring new technologies and building projects that solve real-world problems.
+
+## 👨‍💻 About Me
+
+- 🎓 AIML Engineering Student
+- 🤖 Interested in Artificial Intelligence & Machine Learning
+- 🧠 Exploring Deep Learning and Neural Networks
+- 📊 Learning Data Analytics and Data Science
+- 💻 Improving my Python and Programming Skills
+- 🚀 Interested in building real-world AI projects
+- 🎯 Goal: Become a skilled AI Engineer
+
+## 🛠️ Technologies & Tools
+
+- **Languages:** Python, SQL
+- **AI/ML:** Machine Learning, Deep Learning
+- **Data Science:** NumPy, Pandas, Data Analysis
+- **Tools:** Git, GitHub, VS Code
+- **Currently Exploring:** Generative AI, Neural Networks, AI Agents
+
+## 🚀 What I'm Working On
+
+- Building AI/ML projects
+- Exploring real-world applications of Machine Learning
+- Strengthening Data Structures and Algorithms
+- Learning new technologies and improving my skills
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilpreet1107&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patilpreet1107&layout=compact&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+- 💻 GitHub: [@patilpreet1107](https://github.com/patilpreet1107)
+
+---
+
+⭐ *"Learning every day, building every day, growing every day!"*
