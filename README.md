@@ -18,11 +18,10 @@ I'm a Computer Engineering student specializing in Artificial Intelligence and M
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** Python, SQL
+- **Languages:** Python,C++
 - **AI/ML:** Machine Learning, Deep Learning
-- **Data Science:** NumPy, Pandas, Data Analysis
 - **Tools:** Git, GitHub, VS Code
-- **Currently Exploring:** Generative AI, Neural Networks, AI Agents
+- **Currently Exploring:** Generative AI, Neural Networks, AI Agents, Github OpenSource
 
 ## 🚀 What I'm Working On
 
@@ -31,15 +30,9 @@ I'm a Computer Engineering student specializing in Artificial Intelligence and M
 - Strengthening Data Structures and Algorithms
 - Learning new technologies and improving my skills
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=patilpreet1107&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patilpreet1107&layout=compact&theme=tokyonight)
-
 ## 🌐 Connect With Me
 
-- 💻 GitHub: [@patilpreet1107](https://github.com/patilpreet1107)
+- 💻 Linkedin: [@PreetPatil](https://www.linkedin.com/in/preet-patil-b0a85b409/)
 
 ---
 
